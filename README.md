@@ -24,6 +24,6 @@ export PIX4D_CLIENT_SECRET = YOUR_CLIENT_SECRET
 **create_project.py**
 - This create a new project, upload images and start processing on PIX4Dcloud.
 
-**get_project.py**
+**get_project_output.py**
 - This gets an orthomosaic output from an existing demo project. 
 
