@@ -14,10 +14,10 @@ pip install -r requirements.txt
 ```
 
 ### PIX4Dengine Cloud API account
-Set your client_id and client_secret as environment variables
+Set your client_id and client_secret as environment variables.
 ```bash
-export PIX4D_CLIENT_ID=xxx
-https://developer.pix4d.com/cloud-api/index.htmlexport PIX4D_CLIENT_SECRET=xxx
+export PIX4D_CLIENT_ID = YOUR_CLIENT_ID
+export PIX4D_CLIENT_SECRET = YOUR_CLIENT_SECRET
 ```
 
 ## Run the scripts
